@@ -15,7 +15,27 @@ npm start
 
 ```
 
+If you want to running then clone 
 
+```
+git clone https://github.com/NguyenTungs/react-express-mongodb-example.git
+
+cd react-express-mongodb-example
+
+npm install
+
+npm run build
+
+npm start
+
+```
+
+Just one things, if you want running with start:dev then
+
+```
+npm run start:dev
+
+```
 
 
 # For guide React
