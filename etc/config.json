@@ -1,0 +1,9 @@
+{
+    "apiPrefix": "http://localhost:2400",
+    "serverPort": "2400",
+    "db":{
+        "name": "underDog",
+        "host": "localhost",
+        "port": 27017
+    }
+}
